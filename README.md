@@ -1,7 +1,7 @@
 <html>
     <title>Description of the game Minecraft Education edition</title>
     <header id="start">
-        <link href="Style.css" rel="stylesheet">
+        <link rel="stylesheet" href="Style.css">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVu03XZHL10Dd7xUq9m_KvYS0sfL7Yyynsg&usqp=CAU" height="100px">
         <a class="aw" href="#opus" style="color: green;">opus<img class="gif"src="https://www.chunkbase.com/img/gallery/compendium_400.png"></a>
         <a class="aw" href="#footer" style="color: red;">The basement of the site<img class="gif"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFDQERc8927nx2sQ7JpQkdN65kw2K3Q-QYg&amp;usqp=CAU"</a>
