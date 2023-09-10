@@ -1,5 +1,4 @@
 <html>
-    <title>Description of the game Minecraft Education edition</title>
     <header id="start">
         <link rel="stylesheet" href="Style.css">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVu03XZHL10Dd7xUq9m_KvYS0sfL7Yyynsg&usqp=CAU" height="100px">
